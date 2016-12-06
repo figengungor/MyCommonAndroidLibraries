@@ -33,3 +33,9 @@ compile 'com.google.firebase:firebase-crash:10.0.1'
 
 compile 'com.google.firebase:firebase-ads:10.0.1'
 
+# Butterknife
+
+https://github.com/JakeWharton/butterknife
+
+compile 'com.jakewharton:butterknife:8.4.0'
+

@@ -47,3 +47,9 @@ https://github.com/JakeWharton/butterknife
 
 compile 'com.jakewharton:butterknife:8.4.0'
 
+# Glide
+
+https://github.com/bumptech/glide
+
+compile 'com.github.bumptech.glide:glide:3.7.0'
+

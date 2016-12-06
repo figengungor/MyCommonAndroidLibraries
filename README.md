@@ -1,4 +1,4 @@
-# MyCommonAndroidLibraries
+# My Common Android Libraries
 The common Android libraries that I use on my projects
 
 # Android Support Libraries
@@ -45,7 +45,7 @@ compile 'com.google.firebase:firebase-ads:10.0.1'
 
 https://github.com/JakeWharton/butterknife
 
-compile 'com.jakewharton:butterknife:8.4.0'
+compile 'com.jakewharton:butterknife:7.0.1'
 
 # Glide
 

@@ -53,3 +53,9 @@ https://github.com/bumptech/glide
 
 compile 'com.github.bumptech.glide:glide:3.7.0'
 
+# Paginate
+
+https://github.com/MarkoMilos/Paginate
+
+compile 'com.github.markomilos:paginate:0.5.1'
+

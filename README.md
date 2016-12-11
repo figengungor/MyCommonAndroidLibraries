@@ -5,6 +5,8 @@ The common Android libraries that I use on my projects
 
 https://developer.android.com/topic/libraries/support-library/features.html
 
+compile 'com.android.support:design:25.0.1'
+
 compile 'com.android.support:recyclerview-v7:25.0.1'
 
 compile 'com.android.support:cardview-v7:25.0.1'
